@@ -1,0 +1,6 @@
+.language-set .progress{
+  height: 25px;
+}
+.language-set .progress .progress-bar{
+  font-size: 1rem;
+}

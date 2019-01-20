@@ -1,0 +1,6 @@
+.card.bg-primary,.card.bg-primary .text-muted,.card.bg-primary a{
+  color: white !important;
+}
+.card.bg-primary .card-title{
+  font-weight: 700;
+}
